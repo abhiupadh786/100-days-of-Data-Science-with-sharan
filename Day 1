@@ -1,0 +1,20 @@
+Day 1 - Learning about the popular IDE
+We will mostly be using the Jupiter Notebook mostly in this journey. It is important to understand
+this tool and to best use it. While working on a project it is important to ensure the documentation
+is clear enough. Jupyter Notebook is not only easy to use but it is also easy to make
+documentation and presentations.
+The first step is to set the environment. Jupyter Notebook is one of the best tools for data science
+programming. Here are the steps to install Anaconda.
+To know about the basic command and getting started with Anaconda. Here is a simple tutorial
+Creating an environment is very important while working on a project. There could be different
+requirements for different projects. There are could be projects where you might have to use a
+library that is of an older version. This can be made possible using different environments.
+Learn to create a new environment using this link here.
+Also, here is an article about using Jupyter Notebook. It clearly explains the common
+functionalities of Jupiter. If you are looking for a cheat sheet, here is one.
+Some things to practice are,
+- Install Anaconda, it should take care of the installation of Python and Jupiter Notebook
+- Create a new environment (On creating a new environment remember to install ipykernel and
+Jupyter)
+If you are looking for a tutorial video. Check out here. I have walked through the installation
+process.
